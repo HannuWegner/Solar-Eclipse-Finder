@@ -1,0 +1,7 @@
+{
+  "name": "Solar Eclipse Finder",
+  "description": "An interactive tool to track future solar eclipses, visualize the path of totality, calculate sun positions, and find accommodations using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
